@@ -1,9 +1,0 @@
-# List of strings...
-words = ["apple", "banana", "cherry", "date", "elderberry"]
-
-# Iterating through the list and finding the length of each string...
-lengths = [len(word) for word in words]
-
-# Printing the original words and their lengths...
-for i, word in enumerate(words):
-    print(f"Word: {word}, Length: {lengths[i]}")
