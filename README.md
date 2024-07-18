@@ -12,6 +12,8 @@ Welcome to the 100 Days of Python Challenge! This repository is dedicated to tra
 
 Each day, I will log my progress, including what I worked on, any challenges I faced, and what I learned. 
 
+- Start: July 17, 2024
+
 > Day 1
 [Hello World and Basic Syntax](https://github.com/JohnDev19/100-days-of-Python/tree/main/Day%201)
 
