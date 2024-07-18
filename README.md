@@ -18,3 +18,5 @@ Each day, I will log my progress, including what I worked on, any challenges I f
 [Hello World and Basic Syntax](https://github.com/JohnDev19/100-days-of-Python/tree/main/Day%201)
 
 > Day 2 [Strings](https://github.com/JohnDev19/100-days-of-Python/tree/main/Day%202)
+
+> Day 3 [Variables and Data Types](https://github.com/JohnDev19/100-days-of-Python/tree/main/Day%203)
