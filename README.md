@@ -22,3 +22,5 @@ Each day, I will log my progress, including what I worked on, any challenges I f
 > Day 3 [Variables and Data Types](https://github.com/JohnDev19/100-days-of-Python/tree/main/Day%203)
 
 > Day 4 [Lists](https://github.com/JohnDev19/100-days-of-Python/tree/main/Day%204)
+
+> Day 5 [Tuples](https://github.com/JohnDev19/100-days-of-Python/tree/main/Day%205)
