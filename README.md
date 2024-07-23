@@ -24,3 +24,7 @@ Each day, I will log my progress, including what I worked on, any challenges I f
 > Day 4 [Lists](https://github.com/JohnDev19/100-days-of-Python/tree/main/Day%204)
 
 > Day 5 [Tuples](https://github.com/JohnDev19/100-days-of-Python/tree/main/Day%205)
+
+> Day 6 [Sets](https://github.com/JohnDev19/100-days-of-Python/tree/main/Day%206)
+
+> Day 7 [Dictionaries](https://github.com/JohnDev19/100-days-of-Python/tree/main/Day%207)
